@@ -78,7 +78,7 @@ const sazzad = {
 
 ### 🤝 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sazzad.site)
+[![Website](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sazzad.site)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sk-sazzad)
 
 </div>
