@@ -47,6 +47,16 @@ const sazzad = {
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sk-sazzad&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sk-sazzad)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Analytics
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-sazzad&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
