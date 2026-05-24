@@ -49,8 +49,7 @@ const sazzad = {
 
 ### 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sk-sazzad&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sazzad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-sazzad&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
 
 </div>
 
