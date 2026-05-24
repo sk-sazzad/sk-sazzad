@@ -53,9 +53,6 @@ const sazzad = {
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-sazzad&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
 
 ---
 
